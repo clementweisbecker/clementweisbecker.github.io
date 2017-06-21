@@ -1,0 +1,96 @@
+@import url(http://fonts.googleapis.com/css?family=Gafata);
+@import url(http://fonts.googleapis.com/css?family=Gafata);
+h1 { 
+  font-size : 25px;
+  font-family : 'Gafata', arial, serif;
+}
+h2 { 
+  font-size : 25px;
+  font-family : 'Gafata', arial, serif;
+  color : #555;
+}
+a {
+  color : #325b84;
+  text-decoration : none;
+}
+a:hover {
+  color : #4a68ba;
+  text-decoration : none;
+}
+
+body {
+  font-family : 'Gafata', arial, serif;
+  background-color : #ccc;
+  text-align : center;
+  margin : 20px 0px;
+  padding:0px;
+}
+#containerh {
+  text-align : left;
+  margin: 0px 0px 0px 600px;
+  width  : 900px;
+  background-color : #fff;
+  box-shadow : 1px 1px 15px #969696;
+}
+#container {
+  text-align : left;
+  margin: 0px auto;
+  width  : 900px;
+  background-color : #fff;
+  box-shadow : 1px 1px 15px #969696;
+}
+#header {
+  float : left;
+  padding : 2px 15px;
+}
+#addr {
+  padding : 12px 28px 18px;
+  font-size : 16px;
+  font-family : 'Gafata', arial, serif;
+}
+#pic {
+  float : right ;
+  padding : 12px 28px 12px;
+  font-size : 16px;
+  font-family : 'Gafata', arial, serif;
+}
+#separator {
+  height : 10px;
+  background-color : #ccc;
+  border-bottom : 1px solid #bbb;
+  border-top : 1px solid #bbb;
+  clear : both;
+}
+.item{
+  margin : 15px;
+  padding : 10px;
+  border-bottom : 1px solid #ccc;
+}
+.title{
+  font-weight : bold;
+  font-size : 20px;
+  font-family : 'Gafata', arial, serif;
+  color:#99cc99;
+  padding : 0 5px;
+  float : left;
+  width : 170px;
+  height : 100%;
+}
+.content{
+  font-size : 17px;
+  font-family : 'Gafata', arial, serif;
+  padding : 0 5px;
+}
+.pdf{
+  float : right;
+}
+.sep{
+  border-bottom : 1px solid #bbb;
+  width : 80%;
+  margin : 15px 5px 5px 150px;
+}
+#copy{
+  font-size : 12px;
+  text-align : center;
+}
+
