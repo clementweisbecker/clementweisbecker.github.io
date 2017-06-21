@@ -1,0 +1,4 @@
+1010  git add --all
+1011  git commit -m "Initial commit"
+012  git push -u origin master
+
